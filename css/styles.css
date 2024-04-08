@@ -22,3 +22,25 @@
 .contact {
     color: white; 
 }
+.navBarTopLi {
+    display: inline-block;
+    padding: 15px;
+    font-weight: 700;
+      }
+.navBarTopUl {
+    border: solid 1px black;
+    width: 40%;
+    margin: -70px 150px 50px 150px;
+    border-radius: 50px;
+    background-color: rgb(233, 233, 240);
+    text-align: center;
+      }
+.navigation {
+    justify-content: center;
+}
+body {
+    font-family: "Semplicita Pro", sans-serif;
+  }
+  button {
+      font-family: "Semplicita Pro", sans-serif;
+  }
